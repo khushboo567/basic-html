@@ -1,0 +1,32 @@
+p {
+  color: whitesmoke;
+  font-size: x-large;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.para {
+  margin-left: 10%;
+  background-color: white;
+  color: navy;
+  width: 75%;
+  height: 40%;
+  padding-top: 1%;
+  padding-left: 1%;
+
+}
+
+.txt_field {
+  margin-left: 6%;
+}
+
+.source {
+  padding-top: 1%;
+  height: 10%;
+  width: 10%;
+}
+
+.button {
+
+  cursor: pointer;
+  padding-left: 50%;
+}
